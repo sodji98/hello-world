@@ -7,4 +7,7 @@ int main()
 	int b;
 	b = 0;
 	a = f();
+	int z = 0;
+	int n = 0;
+	int e = 0;
 }
