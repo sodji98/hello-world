@@ -5,5 +5,8 @@ int f()
 {
   int x;
   x=0;
+  int s;
+  s=0;
+  int w;
   return 0;
 }
